@@ -18,3 +18,9 @@ void MainWindow::on_pushButton_clicked()
 //asdfasdasd
 }
 
+
+void MainWindow::on_pushButton_2_clicked()
+{
+    //asdasdasdasd
+}
+
